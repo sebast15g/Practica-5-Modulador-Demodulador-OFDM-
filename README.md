@@ -102,7 +102,7 @@ Estos resultados permiten evaluar el desempeño del sistema OFDM y verificar su 
 
 ## 👥 Autores
 
-*Pablo Bermeo
+* Pablo Bermeo
 * Sebastian Guazhima
 
 ---
