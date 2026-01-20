@@ -30,13 +30,13 @@ En el receptor se realizan procesos de estimación de canal y ecualización en e
 ---
 
 ## 📂 Estructura del Repositorio
-
+```text
 ├── core/              # Implementación del transmisor, canal, receptor y análisis
 ├── GUI/               # Interfaz gráfica para la simulación interactiva
 ├── figs_resultados/   # Figuras generadas durante las simulaciones y análisis
 ├── requirements.txt   # Dependencias del proyecto
 └── README.md          # Documentación
-
+```
 ## 🚀 Funcionalidades Implementadas
 
 ### Procesamiento de Señal
