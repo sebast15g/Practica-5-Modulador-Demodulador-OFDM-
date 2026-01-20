@@ -74,3 +74,44 @@ Para una experiencia interactiva y visualización inmediata:
 
 ```bash
 python GUI/gui_main.py
+```
+
+Si prefieres ejecutar los scripts paso a paso:
+
+# Transmisor
+```bash
+python core/ofdm_tx.py
+```
+# Simulación de Canal
+```bash
+python core/ofdm_channel.py
+```
+# Receptor
+```bash
+python core/ofdm_rx.py
+```
+
+## 📊 Resultados
+
+El proyecto genera diferentes resultados gráficos que se almacenan en la carpeta `figs_resultados/`:
+
+* Constelaciones QAM (transmitidas vs recibidas).
+* Señales OFDM en el dominio del tiempo y la frecuencia.
+* Reconstrucción de imágenes bajo distintos escenarios de canal.
+* Curvas de **BER vs SNR**.
+* Análisis del **PAPR**.
+
+Estos resultados permiten evaluar el desempeño del sistema OFDM y verificar su robustez frente a canales selectivos en frecuencia.
+
+---
+
+## 👥 Autores
+
+*Pablo Bermeo
+* Sebastian Guazhima
+
+---
+
+## 📄 Licencia
+
+Este proyecto fue desarrollado con fines **académicos y educativos**. Siéntete libre de usarlo como referencia para tus propios estudios de telecomunicaciones.
