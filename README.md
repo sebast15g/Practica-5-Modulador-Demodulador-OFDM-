@@ -34,7 +34,6 @@ En el receptor se realizan procesos de estimación de canal y ecualización en e
 ├── core/              # Implementación del transmisor, canal, receptor y análisis
 ├── GUI/               # Interfaz gráfica para la simulación interactiva
 ├── figs_resultados/   # Figuras generadas durante las simulaciones y análisis
-├── requirements.txt   # Dependencias del proyecto
 └── README.md          # Documentación
 ```
 ## 🚀 Funcionalidades Implementadas
@@ -60,10 +59,6 @@ En el receptor se realizan procesos de estimación de canal y ecualización en e
 * **GUI:** Interfaz gráfica completa para visualización y configuración de parámetros en tiempo real.
 
 ---
-
-## ⚙️ Instalación y Requisitos
-
-Para ejecutar este proyecto, asegúrate de tener Python instalado. Luego, instala las dependencias necesarias ejecutando:
 
 ## ▶️ Ejecución del Proyecto
 
